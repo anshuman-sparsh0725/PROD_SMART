@@ -458,7 +458,7 @@ body {
 
 .calendar-day.today {
     background: var(--primary);
-    color: #fff;
+    color: #1c1a1a;
     font-weight: 600;
 }
 
